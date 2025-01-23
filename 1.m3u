@@ -3,117 +3,396 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://bit.ly/iptv-aptv
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视IPV4",CCTV1
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv1hd8m/8000000
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视IPV4",CCTV2
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv2hd8m/8000000
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视IPV4",CCTV3
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv38m/8000000
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视IPV4",CCTV4
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv4hd8m/8000000
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视IPV4",CCTV5
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv58m/8000000
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视IPV4",CCTV5+
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv5phd8m/8000000
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视IPV4",CCTV6
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv6hd8m/8000000
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视IPV4",CCTV7
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv7hd8m/8000000
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视IPV4",CCTV8
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv8hd8m/8000000
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视IPV4",CCTV9
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv9hd8m/8000000
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视IPV4",CCTV10
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv10hd8m/8000000
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视IPV4",CCTV11
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv11hd8m/8000000
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视IPV4",CCTV12
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv12hd8m/8000000
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视IPV4",CCTV13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="央视",CCTV13
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视IPV4",CCTV14
-http://148.135.93.213:81/PLTV/bestv.php?id=cctvsehd8m/8000000
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视IPV4",CCTV15
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv15hd8m/8000000
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视IPV4",CCTV16
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv16hd8m/8000000
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视IPV4",CCTV17
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv17hd8m/8000000
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视IPV4",CCTV16-4K
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv16hd4k/15000000
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视IPV4",CCTV-4K
-http://148.135.93.213:81/PLTV/bestv.php?id=cctv4k/15000000
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.112114.eu.org/logo/浙江卫视.png" group-title="卫视IPV4",浙江卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=zjwshd8m/8000000
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="卫视IPV4",北京卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=bjwshd8m/8000000
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.112114.eu.org/logo/辽宁卫视.png" group-title="卫视IPV4",辽宁卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=lnwshd8m/8000000
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.112114.eu.org/logo/安徽卫视.png" group-title="卫视IPV4",安徽卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=ahwshd8m/8000000
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.112114.eu.org/logo/江苏卫视.png" group-title="卫视IPV4",江苏卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=jswshd8m/8000000
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.112114.eu.org/logo/东方卫视.png" group-title="卫视IPV4",东方卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=dfwshd8m/8000000
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.112114.eu.org/logo/东南卫视.png" group-title="卫视IPV4",东南卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=dnwshd8m/8000000
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.112114.eu.org/logo/湖南卫视.png" group-title="卫视IPV4",湖南卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=hunanwshd8m/8000000
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.112114.eu.org/logo/湖北卫视.png" group-title="卫视IPV4",湖北卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="卫视IPV4",广东卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=gdwshd8m/8000000
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.112114.eu.org/logo/广西卫视.png" group-title="卫视IPV4",广西卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=gxwshd8m/8000000
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.112114.eu.org/logo/深圳卫视.png" group-title="卫视IPV4",深圳卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=szwshd8m/8000000
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.112114.eu.org/logo/四川卫视.png" group-title="卫视IPV4",四川卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=scwshd/8000000
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.112114.eu.org/logo/山东卫视.png" group-title="卫视IPV4",山东卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=sdws8m/8000000
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.112114.eu.org/logo/河南卫视.png" group-title="卫视IPV4",河南卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=hnwshd8m/8000000
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.112114.eu.org/logo/河北卫视.png" group-title="卫视IPV4",河北卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=hbwshd8m/8000000
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.112114.eu.org/logo/江西卫视.png" group-title="卫视IPV4",江西卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=jxws8m/8000000
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.112114.eu.org/logo/天津卫视.png" group-title="卫视IPV4",天津卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=tjwshd8m/8000000
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.112114.eu.org/logo/重庆卫视.png" group-title="卫视IPV4",重庆卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=cqws8m/8000000
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江卫视.png" group-title="卫视IPV4",黑龙江卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=hljwshd8m/8000000
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.112114.eu.org/logo/吉林卫视.png" group-title="卫视IPV4",吉林卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=jlwshd8m/8000000
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.112114.eu.org/logo/海南卫视.png" group-title="卫视IPV4",海南卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.112114.eu.org/logo/云南卫视.png" group-title="卫视IPV4",云南卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=ynwshd8m/8000000
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.112114.eu.org/logo/贵州卫视.png" group-title="卫视IPV4",贵州卫视
-http://148.135.93.213:81/PLTV/bestv.php?id=gzwshd8m/8000000
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="卫视IPV4",五星体育
-http://148.135.93.213:81/PLTV/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1 group-title="•地区",重广融媒
-https://tv.iill.top/cqyx/cqrongmei
-#EXTINF:-1 group-title="•地区",﻿重庆卫视
-https://tv.iill.top/cqyx/chongqingHD
-#EXTINF:-1 group-title="•地区",重庆新闻
-https://tv.iill.top/cqyx/CQTVNewsHD
-#EXTINF:-1 group-title="•地区",重庆影视
-https://tv.iill.top/cqyx/cqyingshiHD
-#EXTINF:-1 group-title="•地区",重庆社会与法
-https://tv.iill.top/cqyx/CQTVTrendyHD
-#EXTINF:-1 group-title="•地区",重庆时尚生活
-https://tv.iill.top/cqyx/cqssgwHD
-#EXTINF:-1 group-title="•地区",重庆文体娱乐
-https://tv.iill.top/cqyx/cqwtylHD
-#EXTINF:-1 group-title="•地区",重庆新农村
-https://tv.iill.top/cqyx/cqggncHD
-#EXTINF:-1 group-title="•地区",重庆少儿
-https://tv.iill.top/cqyx/cqseHD
-#EXTINF:-1 group-title="•地区",重庆科教
-https://tv.iill.top/cqyx/CQTVkejiaoHD
-#EXTINF:-1 group-title="测试",番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+HUSTLER HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121527
+REDLIGHT HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121528
+PRIVATE TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121529
+DORCEL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121530
+DORCEL XXX  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121531
+VIVID RED HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121532
+VIXEN HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121533
+EROX XXX  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121534
+PENTHOUSE QUICKIES HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121535
+SUPER ONE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121536
+BABES TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121537
+XY PLUS HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121538
+XY MAX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121539
+XY MIX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121540
+VIVID TV EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121541
+VIVID TOUCH HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121542
+DUSK! HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121543
+HUSTLER TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121544
+XXL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121545
+PASSIE XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121546
+PASSION XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121547
+REALITY KINGS TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121548
+BRAZZERS TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121549
+BRAZZERS TV EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121550
+BRAZZERS TV EUROPE UA HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121551
+HOT TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121552
+VENUS TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121553
+SEXTREME TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121554
+SEXY HOT HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121555
+MEIDEN VAN HOLLAND HARD HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121556
+EVIL ANGEL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121557
+EROTIC 1 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121558
+EROTIC 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121559
+EROTIC 3 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121560
+EROTIC 4 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121561
+EROTIC 5 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121562
+EROTIC 6 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121563
+EROTIC 7 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121564
+EROTIC 8 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121565
+BANG U HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121566
+ШАЛУН TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121567
+ШЁЛК TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121568
+PLAYBOY HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121569
+PLAYBOY EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121570
+PLAYBOY EUROPE UA HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121571
+BLUE HUSTLER HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121572
+BLUE HUSTLER EUROPE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121573
+RUSSIAN NIGHT  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121574
+BARELY LEGAL TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121575
+O LA LA TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121576
+FRENCH LOVER TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121577
+NUART TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121578
+EXXXOTICA TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121579
+SECRET CIRCLE TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121580
+LUST PUR TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121581
+BEATE-UHSE TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121582
+PURE BABES TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121583
+PINKO CLUB HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121584
+CENTO X CENTO HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121585
+DREAM PORN HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121586
+X-DREAM TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121587
+X-DREAM TV 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121588
+FREE X TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121589
+FREE X TV 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121590
+FREE X TV HQ HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121591
+FANTAZZY TV  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121592
+PRIVATE SPICE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121593
+SEX PRIVE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121594
+LEO TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121595
+X1 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121596
+X BIZARRE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121597
+X DESIRE,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121598
+X BUNGA BUNGA,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121599
+PENTHOUSE PASSION,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121600
+HOT XXL HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121601
+LEGAL TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121602
+NAUGHTY TV  HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121603
+BALKAN EROTIC HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121604
+TABOO HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121605
+OLDTIMER HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121606
+BANGERZ HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121607
+NET XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121608
+PLAYHOUSE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121609
+HOT PLEASURE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121610
+MILF TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121611
+RED XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121612
+EXTREME HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121613
+LESBIAN AFFAIR HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121614
+EMANUELLE HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121615
+SEX ATION HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121616
+FAST BOYZ HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121617
+X-MO HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121618
+PENTHOUSE GOLD HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121619
+EROX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121620
+EROX XXX HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121621
+EXTASY HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121622
+EXTASY 4K,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121623
+SUPERONE,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121624
+THE ADULT CHANNELS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121625
+ОХ-АХ HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121626
+KINOXXX 1 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121627
+KINOXXX 2 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121628
+KINOXXX 3 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121629
+KINOXXX 4 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121630
+KINOXXX 5 HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121631
+JASMIN TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121632
+FASHION TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121633
+FASHION TV UA HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121634
+A3 BIKINI TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121635
+VISIT-X TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/121636
+ALBA 1 TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/16171
+ALBA 2 TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/16172
+ALBA 3 TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/16173
+ALBA 4 TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67430
+ALBA 5 TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67431
+ALBA 6 TV HD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67432
+BRAZZERS 1,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17362
+BRAZZERS 2,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17363
+BRAZZERS 3,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17364
+BRAZZERS 4,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17365
+BRAZZERS 5,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17366
+BRAZZERS 6,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17367
+BRAZZERS 7,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17368
+BRAZZERS 8,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17369
+BRAZZERS 9,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17370
+STRICTLY SEXUAL 1,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17371
+STRICTLY SEXUAL 2,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17372
+STRICTLY SEXUAL 3,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17373
+STRICTLY SEXUAL 4,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17374
+STRICTLY SEXUAL 5,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17375
+STRICTLY SEXUAL 6,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17376
+STRICTLY SEXUAL 7,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17377
+STRICTLY SEXUAL 8,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17378
+STRICTLY SEXUAL 9,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/17379
+XXX: CONNECT XXX 1,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67535
+XXX: CONNECT XXX 2,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67536
+XXX: CONNECT XXX 3,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67537
+XXX: CONNECT XXX 4,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67538
+XXX: CONNECT XXX 5,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67539
+XXX: CONNECT XXX 6,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67540
+XXX: CONNECT XXX 7,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67541
+XXX: CONNECT XXX 8,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67542
+FAKE HOSPITAL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67584
+FAKE HOSTEL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67585
+FAKE TAXI,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67586
+FAMILY SINNERS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67587
+FAMILY STROKES,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67588
+FAMILY XXX,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67589
+FEMALE AGENT,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67590
+FEMALE FAKE TAXI,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67591
+FEVER FILMS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67592
+FIRST ANAL QUEST,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67593
+FITNESS ROOMS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67594
+FORGIVE ME FATHER,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67595
+GF REGENVE,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67596
+GIRLS GONE PINK,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67597
+GOTMYLF,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67598
+HENTAI,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67599
+HER LIMIT,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67600
+HOT WIFE XXX,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67601
+I KNOW THAT GIRL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67602
+JAPAN LUST,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67603
+JAV HUB,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67604
+JAYS POV,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67605
+JESH BY JESH,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67606
+KINKY SPA,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67607
+LETS DO IT,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67608
+LIFE SELECTOR,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67609
+LOVE HER ASS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67610
+MASSAGE ROOMS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67611
+MEAN GIRLS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67612
+MIKES APARTMENT,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67613
+MILE HIGH,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67614
+MILF HUNTER,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67615
+MOFOS B SIDES,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67616
+MOFOS LAB,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67617
+MOM KNOWS BEST,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67618
+MOM TEACH SEX,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67619
+MONEY TALKS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67620
+MR LUCKY POV,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67621
+MY 18 TEENS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67622
+MY DIRT HOBBY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67623
+MY FAMILY PIES,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67624
+MY FRIENDS HOT MOM,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67625
+MY LIFE IN MIAMI,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67626
+MY PERVY FAMILY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67627
+MY VERY FIRST TIME,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67628
+MYLF,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67629
+NANNY SPY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67630
+NAUGHTY AMERICA,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67631
+NF BUSTY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67632
+NUBILE FILMS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67633
+OFFICE OBSESSION,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67634
+PERV MOM,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67635
+PERVS ON PATROL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67636
+PORNO ACADEMIE,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67637
+POVD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67638
+PRESTIGE JAPAN,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67639
+PRETTY DIRTY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67640
+PRIVATE,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67641
+PROPERTY SEX,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67642
+PUBLIC AGENT,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67643
+PUBLIC PICKUPS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67644
+PURE18,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67645
+RAW ATTACK,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67646
+REAL EX GIRLFRIENDS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67647
+REAL SENSUAL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67648
+RK PRIME,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67649
+SELL YOUR GF,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67650
+SEX WORKING,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67651
+SHARE MY BF,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67652
+SIS LOVES ME,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67653
+STEP MOM LESSONS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67654
+STEPSIBLINGS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67655
+STRANDED TEENS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67656
+SWALLOW SALON,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67657
+THE INNOCENCE OF YOUTH,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67658
+TINY 4K,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67659
+TONIGHTS GIRLFRIEND,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67660
+TURNING TWISTYS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67661
+TUSHY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67662
+TWISTYS ORIGINAL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67663
+VIXEN,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67664
+VLOG XXX,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67665
+WE LIVE TOGETHER,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67666
+WHEN GIRLS PLAY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67667
+ASMR FANTASY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67543
+ATK GIRLFRIENDS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67544
+BABES,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67545
+BABES UNLEASHED,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67546
+BABESALICIOUS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67547
+BAD DADDY POV,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67548
+BAEB,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67549
+BANGBUS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67550
+BELLESA FILMS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67551
+BIG NATURALS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67552
+BIG TITS AT SCHOOL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67553
+BITCHES ABROAD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67554
+BLACK GFS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67555
+BLACK IS BETTER,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67556
+BLACKED,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67557
+BLACKED RAW,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67558
+BLOW ME POV,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67559
+BRATTY SIS,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67560
+BRAZZERS EN ESPANOL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67561
+BROKEN BABES,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67562
+BROKEN MILF,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67563
+CUM 4K,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67564
+CUM FIESTA,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67565
+DAD CRUSH,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67566
+DAUGHTER SWAP,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67567
+DAY WITH A PORNSTAR,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67568
+DEEPER,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67569
+DFD BUSTY,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67570
+DFD NETWORK,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67571
+DIGITAL PLAYGROUND,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67572
+DOG FART NETWORK,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67573
+DON\\\'T BREAK ME,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67574
+ELEGANT ANAL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67575
+ERITO,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67576
+EROTIC SPICE,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67577
+EXOTIC 4K,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67578
+EXXXTRA SMALL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67579
+FAKE AGENT,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67580
+FAKE AGENT UK,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67581
+FAKE COP,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67582
+FAKE DRIVING SCHOOL,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/67583
+彩虹e,mitv://135.148.104.228:19806/2061b87b342c4060879467426ec343f6
+彩虹电影,mitv://135.148.104.228:19806/80f6c5a52dc14d82bd6751bae9a7bd2d
+LOOK TV,mitv://135.148.104.228:19806/92bcfe5249e74ea5952e0789ad1ca434
+潘朵啦玩美,mitv://135.148.104.228:19806/95508bd377be4e57b98e82771b1def03
+惊艳成人电影,mitv://135.148.104.228:19806/87c67ddb3fe542209fad31646df0ab1e
+松视1,mitv://135.148.104.228:19806/f4f8edef1bc84e3f96f0ef2f1aca7462
+松视2,mitv://135.148.104.228:19806/214a310f878442028c2bea560e9518c6
+PLAYBOY,mitv://135.148.104.228:19806/a1bdd4044b1241498c615ee02ab4e868
+香蕉,mitv://135.148.104.228:19806/2755dbf54022456bb1def228cda54ba1
+松视3,mitv://135.148.104.228:19806/4f855e073cb74c4ba33494f3c5feab03
+JStar极限,mitv://135.148.104.228:19806/dcf99b2bda44417a96ec205123929881
+HAPPY,mitv://135.148.104.228:19806/3d1df484dbe649a3b509dbe60dca4bfa
+K,mitv://135.148.104.228:19806/5e51b7ff2fa34cb6a667e3d3c217da88
+彩虹e,mitv://generationnexxxt.com:19806/2061b87b342c4060879467426ec343f6
+彩虹电影,mitv://generationnexxxt.com:19806/80f6c5a52dc14d82bd6751bae9a7bd2d
+LOOK TV,mitv://generationnexxxt.com:19806/92bcfe5249e74ea5952e0789ad1ca434
+潘朵啦玩美,mitv://generationnexxxt.com:19806/95508bd377be4e57b98e82771b1def03
+惊艳成人电影,mitv://generationnexxxt.com:19806/87c67ddb3fe542209fad31646df0ab1e
+松视1,mitv://generationnexxxt.com:19806/f4f8edef1bc84e3f96f0ef2f1aca7462
+松视2,mitv://generationnexxxt.com:19806/214a310f878442028c2bea560e9518c6
+PLAYBOY,mitv://generationnexxxt.com:19806/a1bdd4044b1241498c615ee02ab4e868
+香蕉,mitv://generationnexxxt.com:19806/2755dbf54022456bb1def228cda54ba1
+松视3,mitv://generationnexxxt.com:19806/4f855e073cb74c4ba33494f3c5feab03
+JStar极限,mitv://generationnexxxt.com:19806/dcf99b2bda44417a96ec205123929881
+HAPPY,mitv://generationnexxxt.com:19806/3d1df484dbe649a3b509dbe60dca4bfa
+K,mitv://generationnexxxt.com:19806/5e51b7ff2fa34cb6a667e3d3c217da88
+#EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Asian
+http://cdn.adultiptv.net/asian.m3u8
